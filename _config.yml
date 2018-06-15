@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
 google_analytics: ''
-disqus: ''
+disqus: 'the-master-of-none'
 mailchimp-list: ''
 
 # Authors
