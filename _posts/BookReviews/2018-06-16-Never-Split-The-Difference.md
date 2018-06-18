@@ -14,6 +14,6 @@ I will say that the chapter that really made me look at negotiating in a differe
 
 You can turn any question around to get to no. For example, instead of asking "Don’t you think that I am worth an increase in pay?" you may ask "Am I doing a poor job? If not, is there someone more deserving?" Always direct the conversation to no. If that goes sideways, you can use Voss' other techniques to get back on track. It seems simple, but I have to say that I have been playing around with this technique here and there with positive results.
 
-Of course, this is just the tip of the iceberg. Voss goes into so much more, and much more clearly. My poor example doesn’t do this book justice.  Put simply, if you would like to have a good idea on how to develop a game-plan for negotiating - read this book. I really did enjoy it and I really did read it twice. 
+Of course, this is just the tip of the iceberg. Voss goes into so much more, and much more clearly. My poor example doesn’t do this book justice.  Put simply, if you would like to have a good idea on how to develop a gameplan for negotiating - read this book. I really did enjoy it and I really did read it twice. 
 
 Did you read "Never Split the Difference - Negotiating as if Your Life Depended on it" by Chris Voss? How did you like the book? Please let me know in the comments below.
