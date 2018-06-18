@@ -4,6 +4,7 @@ description: "It's a little bit of everything"
 meta_description: "Blogging about everything."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
+float_image: 'assets/images/MON_logosm.png'
 baseurl: /
 google_analytics: 'UA-120891610-1'
 disqus: 'the-master-of-none'
