@@ -3,7 +3,7 @@ layout: post
 title:  "Review of Never Split The Difference"
 author: TJ
 categories: [ Books, Reviews ]
-image: assets/images/Never_Split_The _Difference.png
+image: assets/images/Never_Split_The_Difference.png
 ---
 
 I finished reading the book "Never Split the Difference - Negotiating as if Your Life Depended on it" by Chris Voss, then I read it again. It was that good. Chris Voss is the former FBI lead international kidnapping negotiator. He knows his stuff.
