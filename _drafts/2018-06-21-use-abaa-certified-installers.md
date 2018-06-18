@@ -14,11 +14,11 @@ We were there to offer our services to finish and repair the air barrier (partia
 
 We came in, repaired the work, and finished the air barrier on schedule. Another one in the books. It just didn't have to be so difficult.
 
-That was a few years ago now. Since that time, I have been answering all the same questions and facing all the same problems with air barrier. "Why is your price X? It seems awfully high." "Who owns the silicone sheet extrusions? The glass guy didn't carry it."
+That was a few years ago now. Since that time, I have been answering all the same questions and facing all the same problems with air barrier. "Why is your price X? It seems awfully high." or "Can you help make this problem go away?."
 
 There seems to be a lack of true understanding of the air barrier systems in general. This is no surprise with so many different systems, so many different products available. Non-permeable, Vapor permeable, Bithumious, Non-bituminous, Silicone, Sheet, Fluid-Applied, Aluminum-Faced, NFPA 285 Compliant, etc. There are so many different accessories, different methods for treating transitions, tie-ins, and openings.
 
-That's why whe have the job-specific specification, right? The only problem with that is that it is probably a generic spec. 
+That's why whe have the job-specific specification, right? The only problem with that is that it is probably a generic spec. W
 
 ## What is ABAA?
 
