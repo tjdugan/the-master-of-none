@@ -25,11 +25,11 @@ This should output the installed version of git
 
 We are going to have to create an account on Github as well. Go to <a href="https://github.com" target="_blank">Github.com</a> and create a new account (or log in if you already have one).
 
-![github](//assets/images/FirstGithubPage/github.png "github.masterofnone")
+![github](/assets/images/FirstGithubPage/github.png "github.masterofnone")
 
 Once you have finished creating an account, you are going to want to login and create a new repository. I am going to name my repository ‘firstwebpage.’ You can name yours whatever you would like. Just remember that you cannot use spaces or special characters. 
 
-![github repo](//assets/images/FirstGithubPage/FirstPageRepo.png "github.masterofnone")
+![github repo](/assets/images/FirstGithubPage/FirstPageRepo.png "github.masterofnone")
 
 Make sure that ‘Initialize this repository with a README’ is unchecked. Click on ‘Create Repository.’ *Important - leave this page open for now. We are going to copy commands from this page later on to push files to this repository. Access other pages from another tab.
 
@@ -52,15 +52,15 @@ Open your favorite text editor. I use the free version of <a href="https://www.s
 
 Now, let’s go to <a href="https://getbootstrap.com" target="_blank">getbootstrap.com</a>. Bootstrap is an extremely popular and extremely user-friendly front-end framework for building websites. 
 
-![Bootstrap](//assets/images/FirstGithubPage/BootstrapStarterTemplate.png "Bootstrap")
+![Bootstrap](/assets/images/FirstGithubPage/BootstrapStarterTemplate.png "Bootstrap")
 
 Scroll down to the Starter template. Copy the code and paste it into your index.html file. Save the file.
 
-![Bootstrap Template](//assets/images/FirstGithubPage/index.png "Bootstrap Template")
+![Bootstrap Template](/assets/images/FirstGithubPage/index.png "Bootstrap Template")
 
 If you open the file with your web browser it should look like this:
 
-![Hello World!](//assets/images/FirstGithubPage/helloworld.png "Hello, World")
+![Hello World!](/assets/images/FirstGithubPage/helloworld.png "Hello, World")
 
 We have to add this file to git. In the terminal, type
 
@@ -76,18 +76,18 @@ git commit -m “initial commit”
 
 Now - we are going to push the file from our local repository to our remote repository from the command line. Remember the Github page that I told you not to close?? Let’s go back to that page. Copy the two commands below ‘push an existing repository from the command line.’ If you did close this page, even though I told you not to, see the info at the end of this article.
 
-![Git Push](//assets/images/FirstGithubPage/push.png "Git Push")
+![Git Push](/assets/images/FirstGithubPage/push.png "Git Push")
 
 Okay, let’s go back to our terminal or command prompt. Make sure that you are still in the repository that we created on our Desktop. Paste the commands into the terminal
 
-![Git Push Terminal](//assets/images/FirstGithubPage/pushterm.png "Git Push Terminal")
+![Git Push Terminal](/assets/images/FirstGithubPage/pushterm.png "Git Push Terminal")
 
 You will be prompted for your username and password for your Github account.
 Go to your Github page. Click on the repository name. You should now see your index.html file listed in this repository. You have successfully pushed the index file from your computer to Github. Now, we have to let Github know that you want to serve this file as a webpage.
 
 Go to the Branch tab. Add a new branch named ‘gh-pages’ Make sure that you call it this. This is how you will let Github know where to find the files for this webpage. Save the branch.
 
-![Git Branch](//assets/images/FirstGithubPage/branch.png "Git Branch")
+![Git Branch](/assets/images/FirstGithubPage/branch.png "Git Branch")
 
 Type the following address into your web browser:
 
@@ -99,7 +99,7 @@ Replace <username> with your Github username and <repositoryname> with the name 
 Mine looks like this :
 https://TheMasterOfNone.github.io/firstwebpage
 
-![First Web Page](//assets/images/FirstGithubPage/helloworld.png "First Web Page")
+![First Web Page](/assets/images/FirstGithubPage/helloworld.png "First Web Page")
 
 Congrats! You’ve gone live. If this is your first time working with Git or Github, this probably seems like a lot. It really isn’t. You only have to know a few commands with Git to be proficient, and you use them all the time. If you stick with Github Pages, you will be able to do this in your sleep.
 
